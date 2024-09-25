@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="10" passed="9" failed="1" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-09-25T09:29:19 IST" name="Default suite" finished-at="2024-09-25T09:36:27 IST" duration-ms="427540">
+    <groups>
+    </groups>
+    <test started-at="2024-09-25T09:29:19 IST" name="Default test" finished-at="2024-09-25T09:36:27 IST" duration-ms="427540">
+      <class name="project_spicejet.TestCasesClass">
+        <test-method is-config="true" signature="start()[pri:0, instance:project_spicejet.TestCasesClass@4f80542f]" started-at="2024-09-25T09:29:19 IST" name="start" finished-at="2024-09-25T09:29:26 IST" duration-ms="6461" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- start -->
+        <test-method signature="TestCase001()[pri:0, instance:project_spicejet.TestCasesClass@4f80542f]" started-at="2024-09-25T09:29:26 IST" name="TestCase001" finished-at="2024-09-25T09:29:29 IST" duration-ms="3050" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestCase001 -->
+        <test-method is-config="true" signature="close()[pri:0, instance:project_spicejet.TestCasesClass@4f80542f]" started-at="2024-09-25T09:29:29 IST" name="close" finished-at="2024-09-25T09:29:29 IST" duration-ms="319" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+        <test-method is-config="true" signature="start()[pri:0, instance:project_spicejet.TestCasesClass@4f80542f]" started-at="2024-09-25T09:29:29 IST" name="start" finished-at="2024-09-25T09:29:35 IST" duration-ms="5450" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- start -->
+        <test-method signature="TestCase003()[pri:0, instance:project_spicejet.TestCasesClass@4f80542f]" started-at="2024-09-25T09:29:35 IST" name="TestCase003" finished-at="2024-09-25T09:30:20 IST" duration-ms="45488" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestCase003 -->
+        <test-method is-config="true" signature="close()[pri:0, instance:project_spicejet.TestCasesClass@4f80542f]" started-at="2024-09-25T09:30:20 IST" name="close" finished-at="2024-09-25T09:30:20 IST" duration-ms="123" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+        <test-method is-config="true" signature="start()[pri:0, instance:project_spicejet.TestCasesClass@4f80542f]" started-at="2024-09-25T09:30:20 IST" name="start" finished-at="2024-09-25T09:30:26 IST" duration-ms="5383" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- start -->
+        <test-method signature="TestCase004()[pri:0, instance:project_spicejet.TestCasesClass@4f80542f]" started-at="2024-09-25T09:30:26 IST" name="TestCase004" finished-at="2024-09-25T09:30:55 IST" duration-ms="29349" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestCase004 -->
+        <test-method is-config="true" signature="close()[pri:0, instance:project_spicejet.TestCasesClass@4f80542f]" started-at="2024-09-25T09:30:55 IST" name="close" finished-at="2024-09-25T09:30:55 IST" duration-ms="256" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+        <test-method is-config="true" signature="start()[pri:0, instance:project_spicejet.TestCasesClass@4f80542f]" started-at="2024-09-25T09:30:55 IST" name="start" finished-at="2024-09-25T09:31:00 IST" duration-ms="4773" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- start -->
+        <test-method signature="TestCase005()[pri:0, instance:project_spicejet.TestCasesClass@4f80542f]" started-at="2024-09-25T09:31:00 IST" name="TestCase005" finished-at="2024-09-25T09:31:28 IST" duration-ms="28371" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestCase005 -->
+        <test-method is-config="true" signature="close()[pri:0, instance:project_spicejet.TestCasesClass@4f80542f]" started-at="2024-09-25T09:31:28 IST" name="close" finished-at="2024-09-25T09:31:29 IST" duration-ms="324" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+        <test-method is-config="true" signature="start()[pri:0, instance:project_spicejet.TestCasesClass@4f80542f]" started-at="2024-09-25T09:31:29 IST" name="start" finished-at="2024-09-25T09:31:33 IST" duration-ms="4615" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- start -->
+        <test-method signature="TestCase005B()[pri:0, instance:project_spicejet.TestCasesClass@4f80542f]" started-at="2024-09-25T09:31:33 IST" name="TestCase005B" finished-at="2024-09-25T09:32:10 IST" duration-ms="36596" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestCase005B -->
+        <test-method is-config="true" signature="close()[pri:0, instance:project_spicejet.TestCasesClass@4f80542f]" started-at="2024-09-25T09:32:10 IST" name="close" finished-at="2024-09-25T09:32:10 IST" duration-ms="281" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+        <test-method is-config="true" signature="start()[pri:0, instance:project_spicejet.TestCasesClass@4f80542f]" started-at="2024-09-25T09:32:10 IST" name="start" finished-at="2024-09-25T09:32:15 IST" duration-ms="4870" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- start -->
+        <test-method signature="TestCase006()[pri:0, instance:project_spicejet.TestCasesClass@4f80542f]" started-at="2024-09-25T09:32:15 IST" name="TestCase006" finished-at="2024-09-25T09:32:59 IST" duration-ms="43953" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestCase006 -->
+        <test-method is-config="true" signature="close()[pri:0, instance:project_spicejet.TestCasesClass@4f80542f]" started-at="2024-09-25T09:32:59 IST" name="close" finished-at="2024-09-25T09:33:00 IST" duration-ms="372" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+        <test-method is-config="true" signature="start()[pri:0, instance:project_spicejet.TestCasesClass@4f80542f]" started-at="2024-09-25T09:33:00 IST" name="start" finished-at="2024-09-25T09:33:04 IST" duration-ms="4943" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- start -->
+        <test-method signature="TestCase007()[pri:0, instance:project_spicejet.TestCasesClass@4f80542f]" started-at="2024-09-25T09:33:04 IST" name="TestCase007" finished-at="2024-09-25T09:34:54 IST" duration-ms="109642" status="FAIL">
+          <exception class="org.openqa.selenium.ElementNotInteractableException">
+            <message>
+              <![CDATA[element not interactable
+  (Session info: MicrosoftEdge=129.0.2792.52)
+Build info: version: '4.17.0', revision: 'e52b1be057*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '22.0.1'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [f795ae9fe30cf8681f396ed00198022c, clickElement {id=f.956D9544F6E4912EC095A4C54DD303D1.d.60CC9E7233E7A8DA6BF70AC11C85B8FF.e.14649}]
+Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 129.0.2792.52, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:53211}, msedge: {msedgedriverVersion: 129.0.2792.52 (6462e8fc16ec..., userDataDir: C:\Users\rmmut\AppData\Loca...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:53211/devtoo..., se:cdpVersion: 129.0.2792.52, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[EdgeDriver: MicrosoftEdge on windows (f795ae9fe30cf8681f396ed00198022c)] -> xpath: (//div[@data-focusable='true'])[61]]
+Session ID: f795ae9fe30cf8681f396ed00198022c]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.ElementNotInteractableException: element not interactable
+  (Session info: MicrosoftEdge=129.0.2792.52)
+Build info: version: '4.17.0', revision: 'e52b1be057*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '22.0.1'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [f795ae9fe30cf8681f396ed00198022c, clickElement {id=f.956D9544F6E4912EC095A4C54DD303D1.d.60CC9E7233E7A8DA6BF70AC11C85B8FF.e.14649}]
+Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 129.0.2792.52, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:53211}, msedge: {msedgedriverVersion: 129.0.2792.52 (6462e8fc16ec..., userDataDir: C:\Users\rmmut\AppData\Loca...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:53211/devtoo..., se:cdpVersion: 129.0.2792.52, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[EdgeDriver: MicrosoftEdge on windows (f795ae9fe30cf8681f396ed00198022c)] -> xpath: (//div[@data-focusable='true'])[61]]
+Session ID: f795ae9fe30cf8681f396ed00198022c
+at java.base/jdk.internal.reflect.DirectConstructorHandleAccessor.newInstance(DirectConstructorHandleAccessor.java:62)
+at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:502)
+at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:486)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:185)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:134)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:51)
+at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:190)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:216)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:174)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:519)
+at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:223)
+at org.openqa.selenium.remote.RemoteWebElement.click(RemoteWebElement.java:76)
+at project_spicejet.PageClass.dummyBKG(PageClass.java:555)
+at project_spicejet.TestCasesClass.TestCase007(TestCasesClass.java:86)
+at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:133)
+at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:598)
+at org.testng.internal.TestInvoker.invokeTestMethod(TestInvoker.java:173)
+at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:46)
+at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:824)
+at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:146)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1597)
+at org.testng.TestRunner.privateRun(TestRunner.java:794)
+at org.testng.TestRunner.run(TestRunner.java:596)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:377)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:371)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:332)
+at org.testng.SuiteRunner.run(SuiteRunner.java:276)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:53)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:96)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1212)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1134)
+at org.testng.TestNG.runSuites(TestNG.java:1063)
+at org.testng.TestNG.run(TestNG.java:1031)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:293)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.ElementNotInteractableException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestCase007 -->
+        <test-method is-config="true" signature="close()[pri:0, instance:project_spicejet.TestCasesClass@4f80542f]" started-at="2024-09-25T09:34:54 IST" name="close" finished-at="2024-09-25T09:34:54 IST" duration-ms="286" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+        <test-method is-config="true" signature="start()[pri:0, instance:project_spicejet.TestCasesClass@4f80542f]" started-at="2024-09-25T09:34:54 IST" name="start" finished-at="2024-09-25T09:35:00 IST" duration-ms="5670" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- start -->
+        <test-method signature="TestCase009()[pri:0, instance:project_spicejet.TestCasesClass@4f80542f]" started-at="2024-09-25T09:35:00 IST" name="TestCase009" finished-at="2024-09-25T09:35:16 IST" duration-ms="15980" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestCase009 -->
+        <test-method is-config="true" signature="close()[pri:0, instance:project_spicejet.TestCasesClass@4f80542f]" started-at="2024-09-25T09:35:16 IST" name="close" finished-at="2024-09-25T09:35:16 IST" duration-ms="316" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+        <test-method is-config="true" signature="start()[pri:0, instance:project_spicejet.TestCasesClass@4f80542f]" started-at="2024-09-25T09:35:16 IST" name="start" finished-at="2024-09-25T09:35:22 IST" duration-ms="5192" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- start -->
+        <test-method signature="TestCase009B()[pri:0, instance:project_spicejet.TestCasesClass@4f80542f]" started-at="2024-09-25T09:35:22 IST" name="TestCase009B" finished-at="2024-09-25T09:36:04 IST" duration-ms="42730" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestCase009B -->
+        <test-method is-config="true" signature="close()[pri:0, instance:project_spicejet.TestCasesClass@4f80542f]" started-at="2024-09-25T09:36:04 IST" name="close" finished-at="2024-09-25T09:36:05 IST" duration-ms="331" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+        <test-method is-config="true" signature="start()[pri:0, instance:project_spicejet.TestCasesClass@4f80542f]" started-at="2024-09-25T09:36:05 IST" name="start" finished-at="2024-09-25T09:36:09 IST" duration-ms="4856" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- start -->
+        <test-method signature="TestCase009C()[pri:0, instance:project_spicejet.TestCasesClass@4f80542f]" started-at="2024-09-25T09:36:09 IST" name="TestCase009C" finished-at="2024-09-25T09:36:27 IST" duration-ms="17172" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestCase009C -->
+        <test-method is-config="true" signature="close()[pri:0, instance:project_spicejet.TestCasesClass@4f80542f]" started-at="2024-09-25T09:36:27 IST" name="close" finished-at="2024-09-25T09:36:27 IST" duration-ms="285" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- project_spicejet.TestCasesClass -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
